@@ -76,7 +76,7 @@ def compress_webm(input_path: str, output_path: str = None,
 if __name__ == "__main__":
     # === ПРИМЕР ИСПОЛЬЗОВАНИЯ ===
     # Укажите путь к вашему файлу
-    INPUT_FILE = "/home/romand/Видео/Записи экрана/1.webm"  # <-- ЗАМЕНИТЕ НА СВОЙ ФАЙЛ
+    INPUT_FILE = "/home/romand/Видео/Записи экрана/1.mkv"  # <-- ЗАМЕНИТЕ НА СВОЙ ФАЙЛ
     
     compress_webm(
         input_path=INPUT_FILE,
