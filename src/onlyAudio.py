@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # ============================================
     
     # Путь к исходному видео файлу
-    VIDEO_PATH = "/home/romand/Видео/ЗаписиЭкранаOBS/1.mp4"
+    VIDEO_PATH = "/home/romand/Видео/ЗаписиЭкранаOBS/1.webm"
     
     # Путь для сохранения аудио файла
     AUDIO_PATH = "/home/romand/Видео/my_audio.mp3"
