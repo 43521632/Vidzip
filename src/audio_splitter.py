@@ -71,10 +71,10 @@ if __name__ == "__main__":
     # ============================================
     
     # Путь к исходному аудио файлу (которое ты извлек из видео)
-    AUDIO_PATH = "/home/romand/Видео/1.mp3"
+    AUDIO_PATH = "/home/romand/Videos/1.mp3"
     
     # Папка для сохранения разбитых файлов
-    OUTPUT_DIR = "/home/romand/Видео/split_audio"
+    OUTPUT_DIR = "/home/romand/Videos/split_audio"
     
     # Количество частей (можно изменить на любое число)
     PARTS_COUNT = 3

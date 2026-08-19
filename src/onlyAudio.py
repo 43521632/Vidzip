@@ -44,10 +44,10 @@ if __name__ == "__main__":
     # ============================================
     
     # Путь к исходному видео файлу
-    VIDEO_PATH = "/home/romand/Видео/ЗаписиЭкранаOBS/1.webm"
+    VIDEO_PATH = "/home/romand/Videos/Записи экрана/1.mp4"
     
     # Путь для сохранения аудио файла
-    AUDIO_PATH = "/home/romand/Видео/my_audio.mp3"
+    AUDIO_PATH = "/home/romand/Videos/my_audio.mp3"
     
     # ============================================
     # ЗАПУСК ИЗВЛЕЧЕНИЯ
